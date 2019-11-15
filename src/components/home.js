@@ -21,8 +21,8 @@ export default class Home extends React.Component {
           <h2>Why Join Us?</h2>
           <ul>
             <li><span className="bold">Interview Prep</span> - Competitive programmers are able to ace programming interviews at tech giants like Google, Amazon and Netflix. One of the organisers works at Amazon.</li>
-            <li><span className="bold">Master your programming language:</span> The more code you write the more you are able to discover about the building blocks of your language. You will also discover some tips and tricks to juice out the most efficiency from the language of your choice.</li>
-            <li><span className="bold">Improve Mathematical thinking</span>Mathematics is the language of logic, and the ability to read problem statements and understand them will also help you with mathematical thinking and logic. Furthermore, convincing yourself that . You will also improve in heuristics and computational complexity, which is a very useful asset to have whether you are a software engineer or a mathematician.</li>
+            <li><span className="bold">Master your programming language</span> - The more code you write the more you are able to discover about the building blocks of your language. You will also discover some tips and tricks to juice out the most efficiency from the language of your choice.</li>
+            <li><span className="bold">Improve Mathematical thinking</span> - Mathematics is the language of logic, and the ability to read problem statements and understand them will also help you with mathematical thinking and logic. Furthermore, convincing yourself that . You will also improve in heuristics and computational complexity, which is a very useful asset to have whether you are a software engineer or a mathematician.</li>
           </ul>
         </div>
         <div>
